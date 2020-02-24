@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: mbetest\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /master/en.po\n"
+"Project-Id-Version: mbetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Vietnamese\n"
+"Language: vi_VN\n"
+"PO-Revision-Date: 2020-02-24 05:34\n"
+
+msgid "NameLabel"
+msgstr ""
+
+msgid "AgeLabel"
+msgstr ""
+
