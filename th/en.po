@@ -8,11 +8,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2020-02-24 05:34\n"
+"PO-Revision-Date: 2020-02-24 06:37\n"
 
 msgid "NameLabel"
-msgstr ""
+msgstr "NotName"
 
 msgid "AgeLabel"
-msgstr ""
+msgstr "NotAge"
 
