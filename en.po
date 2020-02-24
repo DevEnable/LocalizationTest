@@ -1,0 +1,5 @@
+msgid "NameLabel"
+msgstr "Name"
+
+msgid "AgeLabel"
+msgstr "Age"
